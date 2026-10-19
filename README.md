@@ -37,6 +37,21 @@ AI-first продукты, LLM-интеграции, SaaS. Собираю соб
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚩 [RedFlag Scanner](https://github.com/Zilk102/redflag-scanner)
+Веб-приложение, которое анализирует переписку и находит токсичные паттерны (газлайтинг, контроль, обесценивание): рейтинг риска 0–100, цитаты, советы. OCR скриншотов, платный полный отчёт, шеринг и PDF. Проект закрыт, есть [аудит](https://github.com/Zilk102/redflag-scanner/blob/main/docs/AUDIT.md).
+
+`React` `Express` `Prisma` `PostgreSQL` `YandexGPT` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Zilk102/redflag-scanner"><img src="https://raw.githubusercontent.com/Zilk102/redflag-scanner/main/docs/media/03-result.png" alt="RedFlag Scanner" width="100%"></a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -67,6 +82,21 @@ Real-time multiplayer 3D arena in the browser: authoritative server, physics, cl
 Visualizes codebase architecture as a dependency graph and runs as an MCP server, giving AI assistants project context, change blast radius and a health score. Everything is computed locally.
 
 `TypeScript` `MCP` `tree-sitter` `AST`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚩 [RedFlag Scanner](https://github.com/Zilk102/redflag-scanner)
+Web app that reads a chat conversation and flags toxic patterns (gaslighting, control, devaluation): 0–100 risk score, quotes and advice. Screenshot OCR, paid full report, sharing and PDF export. The project is closed and comes with an [audit](https://github.com/Zilk102/redflag-scanner/blob/main/docs/AUDIT.md).
+
+`React` `Express` `Prisma` `PostgreSQL` `YandexGPT` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Zilk102/redflag-scanner"><img src="https://raw.githubusercontent.com/Zilk102/redflag-scanner/main/docs/media/03-result.png" alt="RedFlag Scanner" width="100%"></a>
 
 </td>
 </tr>

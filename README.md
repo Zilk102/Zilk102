@@ -18,17 +18,22 @@ AI-first продукты, LLM-интеграции, SaaS. Собираю соб
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 #### 🔮 [Sphere3D](https://github.com/Zilk102/spherio)
 Многопользовательская 3D-арена в браузере: авторитетный сервер, физика, клиентское предсказание, боты, аккаунты, магазин скинов. К проекту приложен [аудит](https://github.com/Zilk102/spherio/blob/master/docs/AUDIT.md) с найденными уязвимостями и техдолгом.
 
 `TypeScript` `Babylon.js` `Colyseus` `Rapier` `PostgreSQL` `Redis` `Docker`
 
+</td>
+<td width="55%" valign="top">
+
 <a href="https://github.com/Zilk102/spherio"><img src="https://raw.githubusercontent.com/Zilk102/spherio/master/docs/media/05-gameplay.png" alt="Sphere3D" width="100%"></a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="45%" valign="top">
 
 #### 🗺️ [CodeMaps](https://github.com/Zilk102/CodeMaps)
 Показывает архитектуру кода как граф зависимостей и работает как MCP-сервер: даёт AI-ассистентам контекст проекта, радиус влияния изменений и health score. Всё считается локально.
@@ -36,9 +41,14 @@ AI-first продукты, LLM-интеграции, SaaS. Собираю соб
 `TypeScript` `MCP` `tree-sitter` `AST`
 
 </td>
+<td width="55%" valign="top">
+
+<a href="https://github.com/Zilk102/CodeMaps"><img src="https://raw.githubusercontent.com/Zilk102/CodeMaps/main/screenshots/main-graph.jpg" alt="CodeMaps" width="100%"></a>
+
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 #### 🚩 [RedFlag Scanner](https://github.com/Zilk102/redflag-scanner)
 Веб-приложение, которое анализирует переписку и находит токсичные паттерны (газлайтинг, контроль, обесценивание): рейтинг риска 0–100, цитаты, советы. OCR скриншотов, платный полный отчёт, шеринг и PDF. Проект закрыт, есть [аудит](https://github.com/Zilk102/redflag-scanner/blob/main/docs/AUDIT.md).
@@ -46,7 +56,7 @@ AI-first продукты, LLM-интеграции, SaaS. Собираю соб
 `React` `Express` `Prisma` `PostgreSQL` `YandexGPT` `Docker`
 
 </td>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 <a href="https://github.com/Zilk102/redflag-scanner"><img src="https://raw.githubusercontent.com/Zilk102/redflag-scanner/main/docs/media/03-result.png" alt="RedFlag Scanner" width="100%"></a>
 
@@ -66,17 +76,22 @@ AI-first products, LLM integrations, SaaS. I build my own projects with AI codin
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 #### 🔮 [Sphere3D](https://github.com/Zilk102/spherio)
 Real-time multiplayer 3D arena in the browser: authoritative server, physics, client-side prediction, bots, accounts, skin shop. Comes with a public [audit](https://github.com/Zilk102/spherio/blob/master/docs/AUDIT.md) listing the vulnerabilities found and the remaining tech debt.
 
 `TypeScript` `Babylon.js` `Colyseus` `Rapier` `PostgreSQL` `Redis` `Docker`
 
+</td>
+<td width="55%" valign="top">
+
 <a href="https://github.com/Zilk102/spherio"><img src="https://raw.githubusercontent.com/Zilk102/spherio/master/docs/media/05-gameplay.png" alt="Sphere3D" width="100%"></a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="45%" valign="top">
 
 #### 🗺️ [CodeMaps](https://github.com/Zilk102/CodeMaps)
 Visualizes codebase architecture as a dependency graph and runs as an MCP server, giving AI assistants project context, change blast radius and a health score. Everything is computed locally.
@@ -84,9 +99,14 @@ Visualizes codebase architecture as a dependency graph and runs as an MCP server
 `TypeScript` `MCP` `tree-sitter` `AST`
 
 </td>
+<td width="55%" valign="top">
+
+<a href="https://github.com/Zilk102/CodeMaps"><img src="https://raw.githubusercontent.com/Zilk102/CodeMaps/main/screenshots/main-graph.jpg" alt="CodeMaps" width="100%"></a>
+
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 #### 🚩 [RedFlag Scanner](https://github.com/Zilk102/redflag-scanner)
 Web app that reads a chat conversation and flags toxic patterns (gaslighting, control, devaluation): 0–100 risk score, quotes and advice. Screenshot OCR, paid full report, sharing and PDF export. The project is closed and comes with an [audit](https://github.com/Zilk102/redflag-scanner/blob/main/docs/AUDIT.md).
@@ -94,7 +114,7 @@ Web app that reads a chat conversation and flags toxic patterns (gaslighting, co
 `React` `Express` `Prisma` `PostgreSQL` `YandexGPT` `Docker`
 
 </td>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 <a href="https://github.com/Zilk102/redflag-scanner"><img src="https://raw.githubusercontent.com/Zilk102/redflag-scanner/main/docs/media/03-result.png" alt="RedFlag Scanner" width="100%"></a>
 

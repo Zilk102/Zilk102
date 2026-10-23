@@ -43,7 +43,7 @@ AI-first продукты, LLM-интеграции, SaaS. Собираю соб
 </td>
 <td width="55%" valign="top">
 
-<a href="https://github.com/Zilk102/CodeMaps"><img src="https://raw.githubusercontent.com/Zilk102/CodeMaps/main/screenshots/main-graph.jpg" alt="CodeMaps" width="100%"></a>
+<a href="https://github.com/Zilk102/CodeMaps"><img src="https://raw.githubusercontent.com/Zilk102/CodeMaps/main/screenshots/graph-hierarchy.png" alt="CodeMaps" width="100%"></a>
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ Visualizes codebase architecture as a dependency graph and runs as an MCP server
 </td>
 <td width="55%" valign="top">
 
-<a href="https://github.com/Zilk102/CodeMaps"><img src="https://raw.githubusercontent.com/Zilk102/CodeMaps/main/screenshots/main-graph.jpg" alt="CodeMaps" width="100%"></a>
+<a href="https://github.com/Zilk102/CodeMaps"><img src="https://raw.githubusercontent.com/Zilk102/CodeMaps/main/screenshots/graph-hierarchy.png" alt="CodeMaps" width="100%"></a>
 
 </td>
 </tr>
